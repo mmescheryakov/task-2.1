@@ -1,0 +1,12 @@
+.non_clicked {
+    background: white;
+}
+
+.clicked {
+    background: black; 
+}
+
+.td {
+    height: 24px;
+    width: 24px;
+}
